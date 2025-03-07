@@ -1,3 +1,22 @@
 {
-  "name" : "ganesh"
+  "todos": [
+    {
+      "userId": 1,
+      "id": 101,
+      "title": "Academics",
+      "isCompleted": false
+    },
+    {
+      "userId": 1,
+      "id": 102,
+      "title": "Bucket",
+      "isCompleted": false
+    },
+    {
+      "userId": 1,
+      "id": 103,
+      "title": "Diet",
+      "isCompleted": false
+    }
+  ]
 }
